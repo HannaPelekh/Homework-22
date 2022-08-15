@@ -1,0 +1,8 @@
+.user_content{
+    width: 93vw; 
+    height: 74vh;
+    border: #24292f 2px solid;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #f1f4f6;
+}

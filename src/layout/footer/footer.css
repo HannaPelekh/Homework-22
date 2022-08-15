@@ -1,0 +1,8 @@
+.footer_container {
+    border-top:#24292f 2px solid; 
+    display: flex;
+    padding-left: 3vw;
+    height: 8vh;
+    align-items: center;
+    padding-left: 50px;
+  }

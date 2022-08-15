@@ -1,0 +1,10 @@
+.todo_content{
+    width: 1250px; 
+    height: 85vh;   
+    padding-top: 40px;
+    /* border: 2px solid #111; */
+}
+.todo_container{
+    display: flex;
+    gap: 100px;        
+}

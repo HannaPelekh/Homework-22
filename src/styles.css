@@ -1,0 +1,15 @@
+html{
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #dde3e9; 
+  color: #24292f;     
+}
+.root{
+  width: 100vw;
+  height:100vh;
+}
+.main_container{
+  display: flex;
+  flex-direction: column;
+}
